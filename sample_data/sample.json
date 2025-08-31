@@ -1,0 +1,4 @@
+[
+ {"id":"A-1","name":"Sunset Diner","coordinates":[40.7128,-74.0060],"category":"Restaurant","ratings":[4,5,5,3],"description":"Cozy diner."},
+ {"id":"A-2","name":"Green Yard","coordinates":[40.7131,-74.0050],"category":"Park","ratings":4.6,"description":"Small park."}
+]
