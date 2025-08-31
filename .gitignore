@@ -1,0 +1,84 @@
+# Python cache / compiled files
+__pycace__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+wheels/
+*.manifest
+*.spec
+
+# Virtual environments
+env/
+venv/
+ENV/
+env_ssmrtly/
+.env
+.venv
+
+# Django specific
+*.log
+*.pot
+*.pyc
+db.sqlite3
+media/
+staticfiles/
+local_settings.py
+
+
+
+# Unit test / coverage reports
+
+.coverage
+
+htmlcov/
+
+.tox/
+
+.nox/
+
+.pytest_cache/
+
+.cache/
+
+coverage.xml
+
+*.cover
+
+*.py,cover
+
+nosetests.xml
+
+test-results.xml
+
+
+
+# IDEs and editors
+
+.vscode/
+
+.idea/
+
+*.swp
+
+*~
+
+
+
+# macOS / Windows
+
+.DS_Store
+
+Thumbs.db
+
+
+desktop.ini
